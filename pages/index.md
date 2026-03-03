@@ -1,17 +1,13 @@
 ---
-title: IDAH Community Archiving Template
+title: Emma C. Moesswilde, Ph.D. 
 layout: homepage
 permalink: /
 ---
 
-The Archiving Out of the Box team supports community storytelling with a  digital archiving and storytelling kit. This demo site has examples of 3 different kinds of community contributions: scanned/screencaptured documents, photos of objects, and vidoes.
+Emma C. Moesswilde (she/her) is an assistant professor of environmental history in the [Department of History and Geography] (https://www.elon.edu/u/academics/arts-and-sciences/history-geography/) at Elon University. Her research investigates  relationships between climate change, gender, and rural life, with a focus on the Northern Atlantic world before 1800.  
 
-Visit our main site for information on how to build relationships, hold community-storytelling collection events, build the collection using our template site, and use community stories for practical community-improvement projects.
+Born and raised in midcoast Maine, Emma has lived and worked in rural communities and environments for much of her life, including projects with Maine Farmland Trust and Maine Conservation Voters. She holds a B.A. cum laude in History and Environmental Studies from Bowdoin College, and an M.A. and Ph.D in history from Georgetown University. 
 
-Our team got its start at the [Institute for Digital Arts and Humanities](https://idah.indiana.edu/) at Indiana University Bloomington and is now funded by the [Digital Justice Development Grant program at the American Council on Learned Societies](https://www.acls.org/recent-fellows/?program_id=40090&_project_year=2024).
+Her scholarly work has contributed to publications from Nature to Early Modern Women: An Interdisciplinary Journal. Her writing has been featured at Environmental History Now and Active History, among other public-facing publications. She lives in the North Carolina Piedmont, where she can often be found looking for dinner ingredients at the farmers’ market or hiking with her dog, Mouse. 
 
-Principal Project Team:
-- Michelle Dalmau
-- Vanessa Elias
-- Kalani Craig
-- Jazma Sutton
+
