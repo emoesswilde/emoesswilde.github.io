@@ -1,7 +1,7 @@
 ---
 layout: item
 format: document
-title: "ACLS Digital Justice Development Grant"
+title: "Recipes for Feeding the Poor in a Time of Scarcity"
 author: "DigitalArc Platform Team"
 contributor: "DigitalArc Platform Team"
 group: "IUB-OC"
@@ -15,4 +15,5 @@ categories: [ News Articles, Web Pages ]
 tags: [  ]
 teammember: 
 ---
+
 
